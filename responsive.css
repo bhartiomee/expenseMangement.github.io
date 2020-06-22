@@ -1,0 +1,34 @@
+html{
+    width: 176vw;
+    overflow-x: hidden;
+  }
+
+.menu-list li {
+    
+    padding: 20px 12px;
+}
+
+.menu-list li a {
+    
+font-size: 22px;
+}
+
+
+.form-group input {
+    
+    width: 185px;
+    padding: 2px 0px;
+}
+.add-expense::before {
+    
+    
+    width: 176%;
+}
+.statistics-data {
+    flex-direction: column;
+    padding: 0px 50px;
+}
+
+.data,.percentage{
+    margin-right: 0;
+}
